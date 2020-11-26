@@ -1,6 +1,8 @@
 # SafePolicyImprovementNonstationary
 This a repository containing the code for the paper "Towards Safe Policy Improvement forNon-Stationary MDPs"
 
+Yash Chandak, Scott M. Jordan, Georgios Theocharous, Martha White, Philip S. Thomas, **Towards Safe Policy Improvement for Non-Stationary MDPs** (NeurIPS, 2020) [[NeurIPS](https://neurips.cc/virtual/2020/public/poster_680390c55bbd9ce416d1d69a9ab4760d.html)] [[ArXiv](https://arxiv.org/abs/2010.12645)] [[Code](https://github.com/ScottJordan/SafePolicyImprovementNonstationary)]
+
 For dependencies, see the file `Project.toml`.
 
 ### Setup Conda environment for Julia
